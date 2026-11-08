@@ -1,16 +1,27 @@
-## Hi there 👋
 
-<!--
-**Moevo/Moevo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 💫 About Me:
 
-Here are some ideas to get you started:
+👋 Hi, I'm **Mohammad Nakhleh**!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 I love Cybersecurity, programming, technology, and exploring how things work.
+
+### ✨ Interests:
+- 🔐 Cybersecurity & Ethical Hacking
+- 🐍 Python Development
+- 🖥️ Software Development
+- 🧠 Artificial Intelligence
+- 🏆 Problem Solving
+
+### 🛠️ Currently Exploring:
+- 🐍 Python
+- ⚙️ C & C++
+- 🐧 Linux
+- 🔍 Cybersecurity & Networking
+
+### 🌟 Let's Connect!
+
+- 💌 Email: [Mohammedfiras777@gmail.com](mailto:Mohammedfiras777@gmail.com)
+
+- 🔗 Linktree: [linktr.ee/moevo__](https://linktr.ee/moevo__)
+
+🚀 **Fun fact:** I love turning random ideas into creative coding projects!
