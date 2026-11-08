@@ -3,22 +3,20 @@
 
 👋 Hi, I'm **Mohammad Nakhleh**!
 
-💻 I love Cybersecurity, programming, technology, and exploring how things work.
+💻 I love Cybersecurity, Music, programming, technology, and exploring how things work.
 
 🔐 Passionate about Cybersecurity and Ethical Hacking.
 
-👨‍🏫 Director of Educational Programs at UniCoders.
 
 ### ✨ Interests:
 - 🔐 Cybersecurity & Ethical Hacking
 - 🐍 Python Development
 - 🖥️ Software Development
 - 🧠 Artificial Intelligence
-- 🎮 Game Development
 - 🏆 Problem Solving
 - 🌐 Networking
 
-🚀 **Fun Fact:** I love turning random ideas into creative coding projects!
+🎵 Fun Fact: Music is more than a hobby to me; it's a part of who I am. ❤️
 
 ---
 
@@ -30,7 +28,8 @@
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/RsHvAHZu)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Moevo23)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Mohammedfiras777@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Moevo)
+[![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/mohammedfiras777)
+
 
 ---
 
@@ -66,4 +65,5 @@
 
 
 
-⭐ Thanks for visiting my profile!
+👀 You found the README. Now forget what you saw. 🔐
+💀 YOU FORGET A THOUSAND THINGS EVERY DAY, PAL. MAKE SURE THIS IS ONE OF THEM.
